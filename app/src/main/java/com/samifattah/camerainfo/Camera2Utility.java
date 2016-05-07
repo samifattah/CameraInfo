@@ -12,6 +12,7 @@ import java.util.ArrayList;
  */
 public class Camera2Utility
 {
+
     private Context m_Context = null;
     private boolean m_bEnableLog = false;
     public static final String szTag = "Camera2Utility";
